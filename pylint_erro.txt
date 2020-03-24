@@ -1,0 +1,5 @@
+ターミナルで「pip install pylint-django」と入力
+
+VSCの「基本設定」＞「設定」＞ユーザー設定に「python.linting.pylintArgs」と入力
+
+文字列項目に「--load-plugins=pylint_django」を追加する
